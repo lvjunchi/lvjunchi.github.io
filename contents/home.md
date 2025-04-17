@@ -1,16 +1,26 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-A handsome Boy.
-
-#### Email
-3456265506@qq.com
+[![lvjunchi](https://gr.xupt.edu.cn/info/1216/7484.htm)](https://github.com/lvjunchi)
 
 #### Education
-heihei.\
-hh
+       马帅印，西安邮电大学副教授、硕导，美国伊利诺伊大学交流学者，陕西省发改委资源节约和环境保护专家。主要研究领域：大数据、数据挖掘、人工智能、物联网、信息物理系统、数字孪生、智能制造、绿色制造、预测与控制优化等。主持陕西省科技厅、陕西省教育厅与西安邮电大学高层次人才等项目。已发表学术论文近20篇，其中以第一作者身份在《Applied Energy》、《Energy》、《Advanced Engineering Informatics》、《Journal of Cleaner Production》等中科院一区期刊发表SCI共7篇，其中1篇入选ESI热点论文；申请/授权发明专利6项；担任《Journal of Artificial Intelligence and Technology》、《Information Dynamics and Applications》、《机电工程技术》等期刊编委及十余个期刊的审稿人；受邀担任《机电工程技术》专刊主编出版以“工业互联网驱动的高能耗制造系统优化方法与技术”为主题的专刊。
+       本课题组具有丰富的学术资源、良好的科研环境与实验平台，且长期与瑞典林雪平大学(LiU)、美国伊利诺伊大学芝加哥分校(UIC)、西北工业大学、西安电子科技大学等国内外高校建立了良好的合作关系。欢迎数学、计算机、机械制造等相关专业学生（特别是愿意读博深造的学生）报考。
+
+#### Email
+masy@xupt.edu.cn
+
+#### Education
+西北工业大学博士
+美国伊利诺伊大学交流学者
 
 #### Research Interests
-play.
+1、边云协同驱动的可持续制造评价体系；
+2、产品生命周期大数据驱动的绿色智能制造；
+3、工业物联网驱动的实时能耗分析与预测方法；
+4、人工智能驱动的绿色制造自适应控制与优化决策；
+5、信息物理系统融合数字孪生的绿色智能制造新模式；
+6、机理、数据与知识混合驱动的绿色制造方法与技术。
+
+#### 教学课程
+《大学计算机基础》、《人工智能》、《离散数学》等
 
